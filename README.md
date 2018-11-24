@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi humans!
+
+All that's missing is the fork. Heh.
